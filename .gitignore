@@ -1,0 +1,9 @@
+# Node.js
+node_modules/
+
+# Environment file
+.env
+
+# Other files/folders you want to ignore
+*.log
+.DS_Store
